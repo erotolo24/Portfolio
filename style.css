@@ -1,0 +1,60 @@
+.logo { 
+  border-radius: 100%;
+  width: 100px;
+}
+
+p {
+  font-family: verdana;
+  color: white;
+}
+
+.opening {
+  font-size: 100px;
+}
+
+.bigtext {
+  font-size: 50px;
+}
+
+.smalltext {
+  font-size: 25px;
+}
+
+button:hover {
+  border-radius: 30%;
+  background-image: linear-gradient(#660000, rgb(184, 0, 0));
+  border-color: red;
+  color: red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+button:active {
+  border-radius: 30%;
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(79, 79, 79));
+  border-color: red;
+  color: red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+.buttonround {
+  border-radius: 30%;
+  background-image: linear-gradient(#c20000, rgb(255, 49, 49));
+  border: solid 5px;
+  border-color: white;
+  color: white;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.lightblue {
+  color: #88BBFF;
+}
+
+.boldred {
+  font-weight: bold;
+  color: #ff0000;
+}
